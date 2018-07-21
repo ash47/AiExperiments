@@ -6,5 +6,5 @@ Here's a bunch of experimental self learning AIs
 
 ## 01 - Learning to Dodge
 
-[![01 - Learning to Dodge](https://img.youtube.com/vi/U_7utY98SnA/0.jpg)](https://www.youtube.com/watch?v=U_7utY98SnA "01 - Learning to Dodge")
+[![01 - Learning to Dodge](https://i.imgur.com/TFdGHum.png)](https://www.youtube.com/watch?v=U_7utY98SnA "01 - Learning to Dodge")
 
