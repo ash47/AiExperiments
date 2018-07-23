@@ -1,0 +1,34 @@
+body {
+	margin: 0px;
+	background: #fff7ee;
+}
+
+#KeyInfo {
+	position: absolute;
+	left: 512px;
+	top: 0px;
+	margin: 4px;
+}
+
+#CurrentIO {
+	position: absolute;
+	left: 512px;
+	top: 32px;
+	margin: 4px;
+}
+
+#chart {
+	position: absolute;
+	left: 480px;
+	top: 260px;
+	margin: 4px;
+
+	width: 400px;
+	height: 128px;
+}
+
+#winnerNetwork {
+	position: absolute;
+	top: 0px;
+	left: 512px;
+}
