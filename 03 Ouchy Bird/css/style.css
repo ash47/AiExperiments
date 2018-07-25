@@ -1,0 +1,40 @@
+body {
+	margin: 0px;
+	background: #fff7ee;
+}
+
+canvas {
+	margin: 4px;
+	border: 1px solid #000;
+}
+
+#KeyInfo {
+	position: absolute;
+	left: 540px;
+	top: 540px;
+	margin: 4px;
+	font-size: 32px;
+}
+
+#CurrentIO {
+	position: absolute;
+	left: 512px;
+	top: 32px;
+	margin: 4px;
+}
+
+#chart {
+	position: absolute;
+	left: 540px;
+	top: 900px;
+	margin: 4px;
+
+	width: 1024px;
+	height: 540px;
+}
+
+#winnerNetwork {
+	position: absolute;
+	top: 580px;
+	left: 580px;
+}

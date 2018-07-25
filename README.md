@@ -11,3 +11,7 @@ Here's a bunch of experimental self learning AIs
 ## 02 - Flappy Bird AI
 
 [![02 - Flappy Bird AI](https://i.imgur.com/8EBvzVB.png)](https://www.youtube.com/watch?v=degJkQgKjXU "02 - Flappy Bird AI")
+
+## 03 - Ouchy Bird AI
+
+[![03 - Ouchy Bird AI](https://i.imgur.com/G70QepC.jpg)](https://youtu.be/HbPQtDpOGYk "03 - Ouchy Bird AI")

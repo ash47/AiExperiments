@@ -1,0 +1,26 @@
+{
+  "name": "aiexperiments",
+  "version": "1.0.0",
+  "description": "A series of experiments I created to mess around with AI.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash47/AiExperiments.git"
+  },
+  "keywords": [
+    "AI"
+  ],
+  "author": "Ash47",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ash47/AiExperiments/issues"
+  },
+  "homepage": "https://github.com/ash47/AiExperiments#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
