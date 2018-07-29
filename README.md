@@ -2,7 +2,7 @@
 Here's a bunch of experimental self learning AIs
 
 ## Main Hub
- - You can find details on all of the experiments directly [here](https://ash47.github.io/AiExperiments/)
+ - You can find details and the actual live demos (play them in your browser) of my experiments directly [here](https://ash47.github.io/AiExperiments/)
 
 ## 01 - AI Learning to Dodge
  - This is a simple AI that does it's best to learn how to dodge projectiles that randomly come towards it.
