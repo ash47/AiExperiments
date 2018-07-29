@@ -1,0 +1,12 @@
+.experimentContainer {
+	padding: 16px;
+	border: 1px solid #000;
+	border-radius: 4px;
+	background: #EEE;
+
+	margin-top: 8px;
+}
+
+h3 {
+	margin-top: 0px;
+}
