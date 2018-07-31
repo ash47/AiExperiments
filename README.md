@@ -28,3 +28,10 @@ Here's a bunch of experimental self learning AIs
  - We're using neutral networks that learn over time to generate AIs. It will learn how to dodge based on how you attack it. How many generations until it can beat you?
 
 [![04 - Ninja AI Training](https://i.imgur.com/aKAERWA.jpg)](https://youtu.be/ESdkBmqNAK8 "04 - Ninja AI Training")
+
+## 05 - AI Cursor Tracking
+ - This is an AI where you need to teach it how to follow your cursor.
+ - Move your cursor around the screen and the AI will get points based on how close it gets to your cursor.
+ - Left click to restart the simulation. Can you train the perfect AI?
+
+[![05 - AI Cursor Tracking](https://i.imgur.com/7oiLJWK.jpg)](https://youtu.be/kIibTfJ9atU "05 - AI Cursor Tracking")
