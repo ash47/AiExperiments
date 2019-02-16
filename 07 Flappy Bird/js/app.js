@@ -13,7 +13,7 @@ var pipeVerticalMoveSpeed = 2;
 //var maxHeightOffset = 130;
 var minHeightOffset = -150;
 var maxHeightOffset = 150;
-var maxHeightDiff = 50;
+var maxHeightDiff = 40;
 
 // The higher this number, the closer the pipes are
 var makeTheGameHarder = 90;
